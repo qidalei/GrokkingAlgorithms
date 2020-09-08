@@ -1,1 +1,2 @@
 # GrokkingAlgorithms
+when i study
